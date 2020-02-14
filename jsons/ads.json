@@ -1,6 +1,6 @@
 {
 "data" :[
-{ "id": 1, 
+{ "id": "1", 
 	"title": null, 
 	"description": null, 
 	"expiry": null, 
@@ -9,7 +9,7 @@
 	"url": "https://c.lazada.com.ph/t/c.YQxX", 
 	"categories": ["",""], "photo_url": "https://github.com/adriane-macer/ae_commerce_files/blob/master/ad_photos/amazing_deals_300x250.jpg"
 },
-{ "id": 1, 
+{ "id": "2", 
 	"title": null, 
 	"description": null, 
 	"expiry": null, 
@@ -19,7 +19,7 @@
 	"categories": ["",""], 
 	"photo_url": "https://github.com/adriane-macer/ae_commerce_files/blob/master/ad_photos/flash_360x280.jpg"
 },
-{ "id": 1, 
+{ "id": "3", 
 	"title": null, 
 	"description": null, 
 	"expiry": null, 
@@ -29,7 +29,7 @@
 	"categories": ["",""], 
 	"photo_url": "https://github.com/adriane-macer/ae_commerce_files/blob/master/ad_photos/supermarket_360x280.jpg"
 },
-{ "id": 1, 
+{ "id": "4", 
 	"title": null, 
 	"description": null, 
 	"expiry": null, 
